@@ -8,7 +8,7 @@ The api uses the ORM Prisma and it needs the MongoDB instance to be a replica se
 
 If you use MongoDB Atlas, the set is managed for you.
 
-### Local
+### amansingh
 
 The simplest way to run a replica set locally is to use the docker-compose file
 in /tools.
